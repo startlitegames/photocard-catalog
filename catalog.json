@@ -1,7 +1,7 @@
 {
     "catalogId": "dev-catalog",
-    "version": 1782866753,
-    "updatedAt": "2026-07-01T00:45:53Z",
+    "version": 1782870433,
+    "updatedAt": "2026-07-01T01:47:13Z",
     "cards": [
         {
             "id": "hina_momose_beach_common_01",
@@ -281,7 +281,7 @@
                 {
                     "label": "Standard Pull",
                     "currency": "Coins",
-                    "cost": 10,
+                    "cost": 500,
                     "oddsLabel": "Lower rarity odds",
                     "rarityChances": [
                         {
