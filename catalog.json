@@ -1,0 +1,486 @@
+{
+    "catalogId": "dev-catalog",
+    "version": 1782865725,
+    "updatedAt": "2026-07-01T00:28:45Z",
+    "cards": [
+        {
+            "id": "hina_momose_beach_common_01",
+            "name": "Hina Momose",
+            "imageKey": "common1_0",
+            "concept": "Beach Set",
+            "rarity": "Common",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_common_02",
+            "name": "Hina Momose",
+            "imageKey": "common2_0",
+            "concept": "Beach Set",
+            "rarity": "Common",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_epic_01",
+            "name": "Hina Momose",
+            "imageKey": "epic1_0",
+            "concept": "Beach Set",
+            "rarity": "Epic",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_epic_02",
+            "name": "Hina Momose",
+            "imageKey": "epic2_0",
+            "concept": "Beach Set",
+            "rarity": "Epic",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_legendary_01",
+            "name": "Hina Momose",
+            "imageKey": "legendary1_0",
+            "concept": "Beach Set",
+            "rarity": "Legendary",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_legendary_02",
+            "name": "Hina Momose",
+            "imageKey": "legendary2_0",
+            "concept": "Beach Set",
+            "rarity": "Legendary",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_mythic_01",
+            "name": "Hina Momose",
+            "imageKey": "mythic1_0",
+            "concept": "Beach Set",
+            "rarity": "Mythic",
+            "variant": "Standard",
+            "maxCopies": 1000,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_mythic_02",
+            "name": "Hina Momose",
+            "imageKey": "mythic2_0",
+            "concept": "Beach Set",
+            "rarity": "Mythic",
+            "variant": "Standard",
+            "maxCopies": 1000,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_rare_01",
+            "name": "Hina Momose",
+            "imageKey": "rare1_0",
+            "concept": "Beach Set",
+            "rarity": "Rare",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_rare_02",
+            "name": "Hina Momose",
+            "imageKey": "rare2_0",
+            "concept": "Beach Set",
+            "rarity": "Rare",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_uncommon_01",
+            "name": "Hina Momose",
+            "imageKey": "uncommon1_0",
+            "concept": "Beach Set",
+            "rarity": "Uncommon",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "hina_momose_beach_uncommon_02",
+            "name": "Hina Momose",
+            "imageKey": "uncommon2_0",
+            "concept": "Beach Set",
+            "rarity": "Uncommon",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_common_01",
+            "name": "Reina Kurogane",
+            "imageKey": "common1_0",
+            "concept": "Beach Set",
+            "rarity": "Common",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_common_02",
+            "name": "Reina Kurogane",
+            "imageKey": "common2_0",
+            "concept": "Beach Set",
+            "rarity": "Common",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_epic_01",
+            "name": "Reina Kurogane",
+            "imageKey": "epic1_0",
+            "concept": "Beach Set",
+            "rarity": "Epic",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_epic_02",
+            "name": "Reina Kurogane",
+            "imageKey": "epic2_0",
+            "concept": "Beach Set",
+            "rarity": "Epic",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_legendary_01",
+            "name": "Reina Kurogane",
+            "imageKey": "legendary1_0",
+            "concept": "Beach Set",
+            "rarity": "Legendary",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_legendary_02",
+            "name": "Reina Kurogane",
+            "imageKey": "legendary2_0",
+            "concept": "Beach Set",
+            "rarity": "Legendary",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_mythic_01",
+            "name": "Reina Kurogane",
+            "imageKey": "mythic1_0",
+            "concept": "Beach Set",
+            "rarity": "Mythic",
+            "variant": "Standard",
+            "maxCopies": 1000,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_mythic_02",
+            "name": "Reina Kurogane",
+            "imageKey": "mythic2_0",
+            "concept": "Beach Set",
+            "rarity": "Mythic",
+            "variant": "Standard",
+            "maxCopies": 1000,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_rare_01",
+            "name": "Reina Kurogane",
+            "imageKey": "rare1_0",
+            "concept": "Beach Set",
+            "rarity": "Rare",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_rare_02",
+            "name": "Reina Kurogane",
+            "imageKey": "rare2_0",
+            "concept": "Beach Set",
+            "rarity": "Rare",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_uncommon_01",
+            "name": "Reina Kurogane",
+            "imageKey": "uncommon1_0",
+            "concept": "Beach Set",
+            "rarity": "Uncommon",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        },
+        {
+            "id": "reina_kurogane_beach_uncommon_02",
+            "name": "Reina Kurogane",
+            "imageKey": "uncommon2_0",
+            "concept": "Beach Set",
+            "rarity": "Uncommon",
+            "variant": "Standard",
+            "maxCopies": 0,
+            "active": true
+        }
+    ],
+    "packs": [
+        {
+            "id": "beach_set",
+            "name": "Day At The Beach",
+            "imageKey": "Untitled design(35)_0",
+            "cardsPerOpen": 5,
+            "active": true,
+            "cardIds": [
+                "hina_momose_beach_common_01",
+                "hina_momose_beach_common_02",
+                "hina_momose_beach_uncommon_01",
+                "hina_momose_beach_uncommon_02",
+                "hina_momose_beach_rare_01",
+                "hina_momose_beach_rare_02",
+                "hina_momose_beach_epic_01",
+                "hina_momose_beach_epic_02",
+                "hina_momose_beach_legendary_01",
+                "hina_momose_beach_legendary_02",
+                "hina_momose_beach_mythic_01",
+                "hina_momose_beach_mythic_02",
+                "reina_kurogane_beach_common_01",
+                "reina_kurogane_beach_common_02",
+                "reina_kurogane_beach_uncommon_01",
+                "reina_kurogane_beach_uncommon_02",
+                "reina_kurogane_beach_rare_01",
+                "reina_kurogane_beach_rare_02",
+                "reina_kurogane_beach_epic_01",
+                "reina_kurogane_beach_epic_02",
+                "reina_kurogane_beach_legendary_01",
+                "reina_kurogane_beach_legendary_02",
+                "reina_kurogane_beach_mythic_01",
+                "reina_kurogane_beach_mythic_02"
+            ],
+            "purchaseOptions": [
+                {
+                    "label": "Standard Pull",
+                    "currency": "Coins",
+                    "cost": 500,
+                    "oddsLabel": "Lower rarity odds",
+                    "rarityChances": [
+                        {
+                            "rarity": "Common",
+                            "weight": 760
+                        },
+                        {
+                            "rarity": "Uncommon",
+                            "weight": 180
+                        },
+                        {
+                            "rarity": "Rare",
+                            "weight": 45
+                        },
+                        {
+                            "rarity": "Epic",
+                            "weight": 12
+                        },
+                        {
+                            "rarity": "Legendary",
+                            "weight": 2
+                        },
+                        {
+                            "rarity": "Mythic",
+                            "weight": 1
+                        }
+                    ]
+                },
+                {
+                    "label": "Deluxe Pull",
+                    "currency": "Coins",
+                    "cost": 1500,
+                    "oddsLabel": "Better coin odds",
+                    "rarityChances": [
+                        {
+                            "rarity": "Common",
+                            "weight": 600
+                        },
+                        {
+                            "rarity": "Uncommon",
+                            "weight": 240
+                        },
+                        {
+                            "rarity": "Rare",
+                            "weight": 105
+                        },
+                        {
+                            "rarity": "Epic",
+                            "weight": 40
+                        },
+                        {
+                            "rarity": "Legendary",
+                            "weight": 12
+                        },
+                        {
+                            "rarity": "Mythic",
+                            "weight": 3
+                        }
+                    ]
+                },
+                {
+                    "label": "Premium Pull",
+                    "currency": "Gems",
+                    "cost": 100,
+                    "oddsLabel": "Higher rarity odds",
+                    "rarityChances": [
+                        {
+                            "rarity": "Common",
+                            "weight": 450
+                        },
+                        {
+                            "rarity": "Uncommon",
+                            "weight": 250
+                        },
+                        {
+                            "rarity": "Rare",
+                            "weight": 170
+                        },
+                        {
+                            "rarity": "Epic",
+                            "weight": 85
+                        },
+                        {
+                            "rarity": "Legendary",
+                            "weight": 35
+                        },
+                        {
+                            "rarity": "Mythic",
+                            "weight": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "casualeverydaywear",
+            "name": "Keeping It Casual",
+            "imageKey": "casualeverydaywear",
+            "cardsPerOpen": 5,
+            "active": true,
+            "cardIds": [],
+            "purchaseOptions": [
+                {
+                    "label": "Standard Pull",
+                    "currency": "Coins",
+                    "cost": 500,
+                    "oddsLabel": "Lower rarity odds",
+                    "rarityChances": [
+                        {
+                            "rarity": "Common",
+                            "weight": 710
+                        },
+                        {
+                            "rarity": "Uncommon",
+                            "weight": 205
+                        },
+                        {
+                            "rarity": "Rare",
+                            "weight": 60
+                        },
+                        {
+                            "rarity": "Epic",
+                            "weight": 19
+                        },
+                        {
+                            "rarity": "Legendary",
+                            "weight": 5
+                        },
+                        {
+                            "rarity": "Mythic",
+                            "weight": 1
+                        }
+                    ]
+                },
+                {
+                    "label": "Deluxe Pull",
+                    "currency": "Coins",
+                    "cost": 1500,
+                    "oddsLabel": "Better coin odds",
+                    "rarityChances": [
+                        {
+                            "rarity": "Common",
+                            "weight": 600
+                        },
+                        {
+                            "rarity": "Uncommon",
+                            "weight": 240
+                        },
+                        {
+                            "rarity": "Rare",
+                            "weight": 105
+                        },
+                        {
+                            "rarity": "Epic",
+                            "weight": 40
+                        },
+                        {
+                            "rarity": "Legendary",
+                            "weight": 12
+                        },
+                        {
+                            "rarity": "Mythic",
+                            "weight": 3
+                        }
+                    ]
+                },
+                {
+                    "label": "Premium Pull",
+                    "currency": "Gems",
+                    "cost": 100,
+                    "oddsLabel": "Higher rarity odds",
+                    "rarityChances": [
+                        {
+                            "rarity": "Common",
+                            "weight": 450
+                        },
+                        {
+                            "rarity": "Uncommon",
+                            "weight": 250
+                        },
+                        {
+                            "rarity": "Rare",
+                            "weight": 170
+                        },
+                        {
+                            "rarity": "Epic",
+                            "weight": 85
+                        },
+                        {
+                            "rarity": "Legendary",
+                            "weight": 35
+                        },
+                        {
+                            "rarity": "Mythic",
+                            "weight": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
